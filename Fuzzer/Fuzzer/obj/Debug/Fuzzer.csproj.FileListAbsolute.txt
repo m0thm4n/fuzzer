@@ -1,0 +1,6 @@
+C:\workspace\CSharp\fuzzer\Fuzzer\Fuzzer\bin\Debug\Fuzzer.exe.config
+C:\workspace\CSharp\fuzzer\Fuzzer\Fuzzer\bin\Debug\Fuzzer.exe
+C:\workspace\CSharp\fuzzer\Fuzzer\Fuzzer\bin\Debug\Fuzzer.pdb
+C:\workspace\CSharp\fuzzer\Fuzzer\Fuzzer\obj\Debug\Fuzzer.csprojAssemblyReference.cache
+C:\workspace\CSharp\fuzzer\Fuzzer\Fuzzer\obj\Debug\Fuzzer.exe
+C:\workspace\CSharp\fuzzer\Fuzzer\Fuzzer\obj\Debug\Fuzzer.pdb
